@@ -1,0 +1,26 @@
+{
+  "name": "jsminnatask10",
+  "version": "1.0.0",
+  "description": "simple server with dbase",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAmMasterCraft/JsMinnaTask10.git"
+  },
+  "author": "IAmMasterCraft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IAmMasterCraft/JsMinnaTask10/issues"
+  },
+  "homepage": "https://github.com/IAmMasterCraft/JsMinnaTask10#readme"
+}
